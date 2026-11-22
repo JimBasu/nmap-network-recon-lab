@@ -35,3 +35,8 @@ This project is a hands-on active network reconnaissance and enumeration lab bui
 * **Defender Visibility:** Unprivileged TCP Connect scans (`-sT`) complete full three-way handshakes that leave clear audit trails in host logs, while unhardened service banners give attackers actionable version intelligence without a single exploit being run.
 
 * ## 📸 Lab Evidence
+<img width="426" height="532" alt="image" src="https://github.com/user-attachments/assets/ea5501da-7653-4400-a2b2-a45e57a52bd4" />
+<img width="410" height="154" alt="image" src="https://github.com/user-attachments/assets/72376674-03a1-427d-93f9-803f4225ce27" />
+<img width="404" height="194" alt="image" src="https://github.com/user-attachments/assets/ba98ea1c-43df-42e0-96b5-9fbd4d8950c2" />
+<img width="1114" height="254" alt="image" src="https://github.com/user-attachments/assets/7611f62a-a2bc-4f46-8ab7-aa224a6bef59" />
+
